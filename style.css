@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  margin: 0;
+  margin: 2.5% 0;
   display: flex;
   row-gap: 50px;
   min-height: 100vh;
